@@ -2,12 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: 
+url:
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
+# Site name
+profilename: Md. Mehedi Hasan Akash
 # Title of the Site
-title: Md. Mehedi Hasan Akash
+title: Hi there!
 # Description of the Site
 description: SOFTWARE ENGINEER · AEROSPACE TECHNOLOGY ENTHUSIAST
 # URL of Image of the Site
